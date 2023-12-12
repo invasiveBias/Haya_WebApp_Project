@@ -39,7 +39,7 @@ const HomePage = () => {
                 how they&apos;re using the platform to earn money, apply their talents, and
                 learn valuable new skills
             </div>
-            <button>Read their stories</button>
+            <button className="btn mx-auto">Read their stories</button>
         </div>
         <div className="flex items-center justify-between p-[10%]"></div>
         <Footer />
